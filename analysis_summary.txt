@@ -1,0 +1,17 @@
+
+STUDENT PERFORMANCE ANALYSIS SUMMARY
+
+Dataset: Synthetic student data created for practice.
+Number of students: 100
+
+Study hours and exam score correlation: 0.772
+Attendance and exam score correlation: 0.051
+Sleep hours and exam score correlation: 0.002
+
+Interpretation:
+Correlation values closer to +1 indicate a stronger positive
+relationship. Values closer to -1 indicate a stronger negative
+relationship. Values near 0 indicate a weaker linear relationship.
+
+These are practice-data results, not conclusions about all students.
+Correlation does not prove causation.
